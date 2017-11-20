@@ -9,3 +9,5 @@ This .htaccess file will make your Wordpress website much more efficient. You wi
 If you do not reach the 90% minimum performance level after setting up this .htacces file, please contact me directly on the [Utopian.io Discord](https://discord.gg/dcmGBQr). 
 
 Thank you for using this script and don't hesitate to make your changes.
+
+My Utopian Account is https://utopian.io/@contribution 
